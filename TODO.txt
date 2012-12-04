@@ -1,0 +1,34 @@
+Todo for mapevaluation
+Input/Output interface
+ - XML output writer
+ - XML input reader
+ - PNG output writer
+
+"A fair map has equal fitness from each player and each team's point of view"
+
+WHAT THE FUCK ABOUT RESOURCES ON TOP OF FEATURES! AND FEATURE YIELDS! AND EVEN MORE RESOURCES PER MAP AND EVEN MORE FEATURES PER MAP!
+
+Fix memory leaks.
+
+Store genomes and evolution runs in files and read back from them. (Boost De/Serialization)
+
+Create a genome constructor from vectors that a genome consists of.
+
+Breyta patterns svo ad Pattern geta verid part invisible. Med thvi ad mala ekkert a hluta uthlutads svaedi.
+
+Randomly generated and or few maps, apply  100 mutation from the same genome.  How many make it better and how many make it worse. Use it to tune parameters and standard deviation. Use different standard deviation for the mutations. For average maps, 50/50 should change to better and worse, and for good maps majority should get worse.
+
+Standard deviation to GENOME MUTATION must be altered between x,y mutation and every other mutation!
+
+When issuing starting positions for civ5 maps, try to find reasonable starting points!
+
+APPENDIX!!! :D 
+ - Resources
+ - Featuers
+ - Terrain
+ - Civ5Methods
+
+
+Talk about exploration and how PCG invites this!!!
+
+Get feature icons.

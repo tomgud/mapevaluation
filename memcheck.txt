@@ -1,0 +1,4 @@
+Mutation results using seed [1345987218] size=50, players=4
+FAT 0.527778WOOT 
+3.09019 vs 2.79518
+Out of 1, 0 improved, and 1 deteriated.

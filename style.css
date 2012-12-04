@@ -1,0 +1,261 @@
+
+.container { 
+	width:105px;
+}
+
+.hex {
+    display: block;
+    float: left;
+    font-size: 10pt;
+    height: 40px;
+    line-height: 2.7em;
+    text-align: center;
+    width: 35px;
+	overflow:hidden;
+}
+
+.even {
+    margin-left: 0;
+    margin-right: 0px;
+    margin-top: -10px;
+}
+
+.odd{
+	float: left;
+    margin: -8px -16px 0 16px;
+}
+
+.plains {
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/plains.png") no-repeat scroll transparent;
+	color:#000;     
+}     
+
+.coast {
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/coast.png") no-repeat scroll transparent;
+	color:#000;     
+}                   
+                    
+.ocean {             
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/ocean.png") no-repeat scroll transparent;
+	color:#fff;     
+}                   
+                    
+.tundra {            
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/tundra.png") no-repeat scroll transparent;
+	color:#fff;     
+}                 
+
+.desert {            
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/desert.png") no-repeat scroll transparent;
+	color:#000;     
+}                   
+                    
+.grassland {         
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/grassland.png") no-repeat scroll transparent;
+	color:#000;     
+}                   
+                    
+.mountain {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/mountain.png") no-repeat scroll transparent;
+	color:#000;     
+}
+
+.grandmesa {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/grand%20mesa.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.barringercrater {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/barringer%20/crater.png") no-repeat scroll transparent;
+	color:#fff;     
+}                    
+     
+
+.rockgibraltar {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/gibraltar%20rock.png") no-repeat scroll transparent;
+	color:#fff;     
+}
+
+.oldfaithful {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/old%20faithful.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.mtfuji {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/mt%20fuji.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.marsh  {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/marsh.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.jungle {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/jungle.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.ice {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/ice.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.fountainofyouth {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/fountain%20of%20youth.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.forest {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/forest.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.fallout {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/fallout.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.floodplains {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/flood%20plains.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.eldorado {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/el%20dorado.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.corrodepotosi {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/corro%20de%20potosi.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.atoll {          
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/atoll.png") no-repeat scroll transparent;
+	color:#fff;     
+} 
+
+.hill {              
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/feat/hill.png") no-repeat scroll transparent;
+	color:#000;
+}
+
+.snow {              
+	background:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/terrain/snow.png") no-repeat scroll transparent;
+	color:#000;
+}
+
+.aluminum:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/aluminum.png");
+}
+
+
+.banana:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/banana.png");
+	
+}
+.cattle:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/cattle.png");
+	
+}
+.deer:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/deer.png");
+	
+}
+.fish:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/fish.png");
+	
+}
+.sheep:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/sheep.png");
+	
+}
+.wheat:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/wheat.png");
+	
+}
+.aluminum:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/aluminum.png");
+	
+}
+.coal:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/coal.png");
+	
+}
+.horses:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/horses.png");
+	
+}
+.iron:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/iron.png");
+	
+}
+.oil:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/oil.png");
+	
+}
+.uranium:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/uranium.png");
+	
+}
+.cotton:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/cotton.png");
+	
+}
+.dyes:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/dyes.png");
+	
+}
+.furs:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/furs.png");
+	
+}
+.gems:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/gems.png");
+	
+}
+.gold:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/gold.png");
+	
+}
+.incense:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/incense.png");
+	
+}
+.ivory:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/ivory.png");
+	
+}
+.marble:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/marble.png");
+	
+}
+.pearls:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/pearls.png");
+	
+}
+.silk:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/silk.png");
+	
+}
+.silver:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/silver.png");
+	
+}
+.spices:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/spices.png");
+	
+}
+.sugar:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/sugar.png");
+	
+}
+.whales:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/whales.png");
+	
+}
+.wine:before {
+	content:url("http://dl.dropbox.com/u/12128108/Civ5%20Resources/res/wine.png");
+	
+}

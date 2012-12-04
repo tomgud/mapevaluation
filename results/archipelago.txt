@@ -1,0 +1,80 @@
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago1.Civ5Map], using seed [1346769017]
+Results after 50 iterations.
+f_0; 0.015
+f_1; 0.563628
+f_2; 0.466481
+f_3; 0.554174
+f_4; 0.63883
+f_e; 5625
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago2.Civ5Map], using seed [1346769041]
+Results after 50 iterations.
+f_0; 0
+f_1; 0.560449
+f_2; 0.492037
+f_3; 0.599441
+f_4; 0.652004
+f_e; 5829
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago3.Civ5Map], using seed [1346769169]
+Results after 50 iterations.
+f_0; 0.00666667
+f_1; 0.563861
+f_2; 0.547778
+f_3; 0.630983
+f_4; 0.678627
+f_e; 5509
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago4.Civ5Map], using seed [1346769901]
+Results after 50 iterations.
+f_0; 0.005
+f_1; 0.578041
+f_2; 0.503148
+f_3; 0.619185
+f_4; 0.668436
+f_e; 5754
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago5.Civ5Map], using seed [1346769933]
+Results after 50 iterations.
+f_0; 0.00666667
+f_1; 0.550482
+f_2; 0.569444
+f_3; 0.617669
+f_4; 0.664743
+f_e; 5753
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago6.Civ5Map], using seed [1346769968]
+Results after 50 iterations.
+f_0; 0.0116667
+f_1; 0.576767
+f_2; 0.533333
+f_3; 0.637485
+f_4; 0.661968
+f_e; 5597
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago7.Civ5Map], using seed [1346769996]
+Results after 50 iterations.
+f_0; 0
+f_1; 0.550252
+f_2; 0.541852
+f_3; 0.682056
+f_4; 0.68349
+f_e; 5581
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago8.Civ5Map], using seed [1346770024]
+Results after 50 iterations.
+f_0; 0.00333333
+f_1; 0.514502
+f_2; 0.565741
+f_3; 0.612387
+f_4; 0.673759
+f_e; 5802
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago9.Civ5Map], using seed [1346770044]
+Results after 50 iterations.
+f_0; 0.0233333
+f_1; 0.537703
+f_2; 0.617037
+f_3; 0.637079
+f_4; 0.659289
+f_e; 5753
+Evaluating mapfile [../Civ5 Resources/testmaps/archipelago10.Civ5Map], using seed [1346770067]
+Results after 50 iterations.
+f_0; 0.01
+f_1; 0.605081
+f_2; 0.555741
+f_3; 0.709203
+f_4; 0.74122
+f_e; 5719

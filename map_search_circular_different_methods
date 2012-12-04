@@ -1,0 +1,137 @@
+    std::queue<Tile*> next_tiles;
+    // For some reason, set is not working. 
+    // Switching to an ugly version, by using a vector and then going 
+    // through the vector. A better version of that would be to use 
+    // a divide and qonquer search instead of using linear search.
+    //std::set<CoOrd> visited_coords;
+    vector<CoOrd> visited_coords;
+    Tile* current = start;
+    next_tiles.push(current);
+    vector<CoOrd> neighbours;
+    bool nei_found(false);
+    // While we haven't reach our end criteria and we still have stuff to look at
+    while(!next_tiles.empty() && !func(current)) {
+        cout << "Looking at " << current->get_x() << "," << current->get_y() << " next_tiles.size = " << next_tiles.size() << std::endl;
+        // Now we have visited it
+        visited_coords.insert(visited_coords.begin(), current->get_coord());
+        // Look at all its neighbours, see if there is someone we haven't been to
+        // and look at those next.
+        neighbours = current->get_all_neighbours();
+        for (unsigned int nei_ind = 0; nei_ind < neighbours.size(); ++nei_ind) 
+        {
+            if (neighbours[nei_ind].get_x() != CoOrd::oob) {
+                nei_found = false;
+                for (unsigned int visits(0); visits < visited_coords.size(); ++visits) {
+                    if (visited_coords[visits] == neighbours[nei_ind]) {
+                        nei_found = true;
+                        break;
+                    }
+                }
+                // Didn't find this neighbour in visited neighbours.
+                if (!nei_found) {
+                    next_tiles.push(this->at(neighbours[nei_ind]));
+                    cout << "  adding to next_tiles " <<  neighbours[nei_ind].get_x() << "," << neighbours[nei_ind].get_y() << ": because it didn't exist before" << std:: endl;
+                }
+            }
+        }
+        // Removing this tile from next tiles to visit queue
+        cout << "Removed current and size is now = " << next_tiles.size() << std::endl;
+        next_tiles.pop();
+        current = next_tiles.front();
+    }
+    return next_tiles.front();
+
+
+
+
+
+    // set
+        std::queue<Tile*> next_tiles;
+    std::set<CoOrd> visited_coords;
+    Tile* current = start;
+    next_tiles.push(current);
+    vector<CoOrd> neighbours;
+    // While we haven't reach our end criteria and we still have stuff to look at
+    while(!next_tiles.empty() && !func(current)) {
+        cout << "Looking at " << current->get_x() << "," << current->get_y() << " next_tiles.size = " << next_tiles.size() << std::endl;
+        // Now we have visited it
+        visited_coords.insert(current->get_coord());
+        // Look at all its neighbours, see if there is someone we haven't been to
+        // and look at those next.
+        neighbours = current->get_all_neighbours();
+        for (unsigned int nei_ind = 0; nei_ind < neighbours.size(); ++nei_ind) 
+        {
+            if (visited_coords.count(neighbours[nei_ind]) == 0 &&
+                neighbours[nei_ind].get_x() != CoOrd::oob) {
+                // Didn't find this neighbour in visited neighbours.
+                next_tiles.push(this->at(neighbours[nei_ind].get_x(),neighbours[nei_ind].get_y()));
+                
+                cout << "  adding to next_tiles " <<  neighbours[nei_ind].get_x() << "," << neighbours[nei_ind].get_y() << ": because it didn't exist before : " << visited_coords.count(neighbours[nei_ind]) << std:: endl;
+            }
+        }
+        // Removing this tile from next tiles to visit queue
+        cout << "Removed current and size is now = " << next_tiles.size() << std::endl;
+        next_tiles.pop();
+        current = next_tiles.front();
+    }
+    return next_tiles.front();
+}
+
+
+// AHA moment 
+// we are not looking through what we are GOING to look at 
+// so, next_tiles includes for example 15,15, and if we haven't been there 
+// yet, we say, well look at it again...
+   std::queue<Tile*> next_tiles;
+    // For some reason, set is not working. 
+    // Switching to an ugly version, by using a vector and then going 
+    // through the vector. A better version of that would be to use 
+    // a divide and qonquer search instead of using linear search.
+    //std::set<CoOrd> visited_coords;
+    vector<CoOrd> visited_coords;
+    Tile* current = start;
+    next_tiles.push(current);
+    vector<CoOrd> neighbours;
+    bool nei_found(false);
+    // While we haven't reach our end criteria and we still have stuff to look at
+    int count(0);
+    while(!next_tiles.empty() && !func(current) && count < 2) {
+        count++;
+        cout << "Looking at " << current->get_x() << "," << current->get_y() << " next_tiles.size = " << next_tiles.size() << std::endl;
+        // Now we have visited it
+        visited_coords.insert(visited_coords.begin(), current->get_coord());
+        // Look at all its neighbours, see if there is someone we haven't been to
+        // and look at those next.
+        neighbours = current->get_all_neighbours();
+        for (unsigned int nei_ind = 0; nei_ind < neighbours.size(); ++nei_ind) 
+        {
+            if (neighbours[nei_ind].get_x() != CoOrd::oob) {
+                nei_found = false;
+                // Include searching through what we are looking at next
+                for (unsigned int visits(0); visits < visited_coords.size(); ++visits) {
+                    cout << (visited_coords[visits].get_x() == neighbours[nei_ind].get_x() &&
+                       visited_coords[visits].get_y() == neighbours[nei_ind].get_y()) << " ? ";
+                    if (visited_coords[visits].get_x() == neighbours[nei_ind].get_x() &&
+                       visited_coords[visits].get_y() == neighbours[nei_ind].get_y()) {
+                        
+                        nei_found = true;
+                        break;
+                    }
+                }
+                cout << std::endl;
+                // Didn't find this neighbour in visited neighbours.
+                if (!nei_found) {
+                    next_tiles.push(this->at(neighbours[nei_ind].get_x(), neighbours[nei_ind].get_y()));
+                    cout << "  adding to next_tiles " <<  neighbours[nei_ind].get_x() << "," << neighbours[nei_ind].get_y() << ": because it didn't exist before";
+                    cout << " in the map is : " << this->at(neighbours[nei_ind].get_x(), neighbours[nei_ind].get_y())->get_x();
+                    cout << "," <<  this->at(neighbours[nei_ind].get_x(), neighbours[nei_ind].get_y())->get_y();
+                    cout << std:: endl;
+                }
+            }
+        }
+        // Removing this tile from next tiles to visit queue
+        next_tiles.pop();
+        current = next_tiles.front();
+        cout << "Removed current and size is now = " << next_tiles.size() << std::endl;
+    }
+    return next_tiles.front();

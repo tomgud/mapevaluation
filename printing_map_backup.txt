@@ -1,0 +1,115 @@
+	OLD printout method.
+	// Main printout
+    cout << "<html><head><title>Randomly generated Civ5 Map</title>";
+    cout << "<link rel=\"stylesheet\" href=\"style.css\" />" << endl;
+    cout <<" </head><body>" << endl;
+    cout << "<div class=\"container\" style=\"padding:20px; width:" << Map::_DIMX * 45 << "px\">" << endl;
+	for (int i = 0; i < Map::_DIMY; ++i) {
+		for (int j = 0; j < Map::_DIMX; ++j) {
+        cout << "<div class=\"hexagon ";
+        if (i % 2 == 0)
+            cout << "even";
+        else 
+            cout << "odd";
+        cout << "\"><div class=\"hexagon-in1\"><div class=\"hexagon-in2 ";
+		cout << search_map.at(j,i)->print_html();
+        cout << "\">&nbsp;&nbsp;&nbsp;&nbsp;";
+		cout << search_map.at(j,i)->get_x() << "," << search_map.at(j,i)->get_y() << "</div></div></div>" << endl;
+		
+		}
+	}
+    cout << "</div></body></html>";
+	
+	// style.css
+	
+.hexagon {
+    -moz-transform: rotate(120deg);
+	-o-transform: rotate(120deg);
+	-webkit-transform: rotate(120deg);
+    cursor: pointer;
+    float: left;
+    overflow: hidden;
+    visibility: hidden;
+}
+.hexagon-in1 {
+    -moz-transform: rotate(-60deg);
+	-o-transform: rotate(-60deg);
+	-webkit-transform: rotate(-60deg);
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+.hexagon-in2 {
+    -moz-transform: rotate(-60deg);
+	-o-transform: rotate(-60deg);
+	-webkit-transform: rotate(-60deg);
+    background-color: black;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    height: 100%;
+    visibility: visible;
+    width: 100%;
+	color:#fff;
+}
+.hexagon-in2:hover {
+    background-color: gray;
+}
+.even {
+    height: 25px;
+    margin: -10.5px 5px 0px -10px;
+    width: 50px;
+}
+.odd {
+    float: left;
+    height: 25px;
+    margin: -12.5px -17px 0px 12px;
+    width: 50px;
+}
+
+.coast {
+	background:url("../Civ5 Resources/terrain/coast.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+.ocean {
+	background:url("../Civ5 Resources/terrain/ocean.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+.tundra {
+	background:url("../Civ5 Resources/terrain/tundra.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+.desert {
+	background:url("../Civ5 Resources/terrain/desert.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+.grassland {
+	background:url("../Civ5 Resources/terrain/grassland.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+.mountain {
+	background:url("../Civ5 Resources/terrain/tundra.png") no-repeat scroll 8px -7px transparent;
+	color:#fff;
+}
+
+.hill { 
+	background:url("../Civ5 Resources/terrain/tundra.png") no-repeat scroll 8px -7px transparent;
+	color:#000;
+}
+
+string Tile::print_html() {
+    string val = "";
+    val += this->name;
+    if (this->feat.get_name() != Feature::NO_FEAT) {
+		// Feature encountered. 
+        val += " " + this->feat.get_string(); 
+	}
+	if (this->res.get_name() != Resource::NO_RES_NAME) {
+        val += " " + this->res.get_string();
+    }
+    return val;
+}

@@ -1,0 +1,746 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parent",
+				"parent_grade"
+			],
+			[
+				"genom",
+				"genome_size"
+			],
+			[
+				"print",
+				"print_out_pm"
+			],
+			[
+				"printou",
+				"print_out_map"
+			],
+			[
+				"PLA",
+				"ALL_PLAINS"
+			],
+			[
+				"one",
+				"PTN_ONE"
+			],
+			[
+				"total",
+				"total_throughput"
+			],
+			[
+				"get",
+				"get_sum"
+			],
+			[
+				"cur_val",
+				"cur_val_before"
+			],
+			[
+				"min",
+				"min_change"
+			],
+			[
+				"print_",
+				"print_out_pm"
+			],
+			[
+				"resour",
+				"resources_on"
+			],
+			[
+				"feat",
+				"features_on"
+			],
+			[
+				"read",
+				"ready_to_print"
+			],
+			[
+				"testmut",
+				"testmutate_iter"
+			],
+			[
+				"evalu",
+				"evaluate_iterations"
+			],
+			[
+				"eva",
+				"evaluate_iterations"
+			],
+			[
+				"evalut",
+				"evaluate-map"
+			],
+			[
+				"uniq",
+				"unique_per_player"
+			],
+			[
+				"closed",
+				"closed_st_result"
+			],
+			[
+				"visited",
+				"visited_tiles"
+			],
+			[
+				"indiv",
+				"indiv_two"
+			],
+			[
+				"ord",
+				"ordered_inds"
+			],
+			[
+				"__",
+				"__ind_grade_comp_h__"
+			],
+			[
+				"no",
+				"no_of_players"
+			],
+			[
+				"play",
+				"player_starts"
+			],
+			[
+				"_",
+				"_DIMY"
+			],
+			[
+				"is",
+				"is_allowed"
+			],
+			[
+				"loop_thr",
+				"loop_through_limit"
+			],
+			[
+				"allow_",
+				"allow_mountains"
+			],
+			[
+				"str",
+				"strategic_count"
+			],
+			[
+				"get_st",
+				"get_start_y"
+			],
+			[
+				"second_",
+				"second_end"
+			],
+			[
+				"first",
+				"first_end"
+			],
+			[
+				"sear",
+				"search_map"
+			],
+			[
+				"se",
+				"seed"
+			],
+			[
+				"fir",
+				"first_start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 16874,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hill.cpp",
+			"settings":
+			{
+				"buffer_size": 3638,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "snow.cpp",
+			"settings":
+			{
+				"buffer_size": 1523,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/maps/map-1346523843-10.html",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/maps/map-1346523843-0.html",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/feature.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/mountain.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/hill.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/snow.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/plains.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tundra.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/grassland.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/resource.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/ocean.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/desert.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/coast.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/feature.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/fitness.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/output_writer.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/map.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile_block.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile_block.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/genome.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/genome.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/evolution.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/main.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/ind_grade.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/ind_grade.cpp",
+		"/usr/include/c++/4.6/bits/stl_multiset.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/map.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/fitness.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/output_writer.h",
+		"/usr/include/c++/4.6/ostream",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/a_star.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/player_manager.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/player_manager.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/evolution.h",
+		"/usr/include/c++/4.6/bits/stl_queue.h",
+		"/usr/include/c++/4.6/bits/stl_vector.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/player.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/feature_pos.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tundra.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/snow.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/plains.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/mountain.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/ocean.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/grassland.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/hill.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/desert.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/coast.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/coords.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/player.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/coords.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/TODO.txt",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/Makefile",
+		"/usr/include/boost/random/uniform_int_distribution.hpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile_comparator.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/yield.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/yield.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/search_tile.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/search_tile.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/civ5mapreader.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/resource_pos.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/resource_pos.cpp",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/a_star.h",
+		"/usr/include/c++/4.6/bits/basic_string.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/map_search_circular_different_methods",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/tile_comparator.h",
+		"/usr/include/c++/4.6/bits/allocator.h",
+		"/home/tomas/Dropbox/Thesis/Paper/psfrag.sty",
+		"/home/tomas/Dropbox/Thesis/Paper/epic.sty",
+		"/usr/include/c++/4.6/functional",
+		"/usr/include/c++/4.6/bits/stl_construct.h",
+		"/home/tomas/Dropbox/Thesis/MapEvaluation/resource.h",
+		"/usr/include/c++/4.6/bits/streambuf_iterator.h",
+		"/usr/include/c++/4.6/bits/stl_deque.h",
+		"/home/tomas/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/tomas/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/tomas/Dropbox/Thesis/MapEvaluation"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href=\"../style.cssstyle.css\"",
+			"(\\.\\.\\/)+",
+			"(\\.\\.\\/)",
+			"(\\.\\.\\/)*",
+			"[..\\/]",
+			"[../]",
+			"[../]*",
+			"../",
+			"5",
+			"4",
+			"stone",
+			"8",
+			"11",
+			"4",
+			"8",
+			"Feature",
+			"0",
+			"width",
+			");",
+			"print_out_map",
+			"WOW",
+			"child_map",
+			"print_out_pm",
+			"print_out_map",
+			"cout",
+			"break",
+			"cout",
+			"());",
+			"rn",
+			"parent_map",
+			"players",
+			"operator>",
+			"operator",
+			"seed",
+			"const",
+			"\"<br/>\"",
+			"pm",
+			"map_from_file",
+			");\n",
+			"c_yield",
+			"endl",
+			"Failure",
+			"cout",
+			"\";\n",
+			"CoOrd::oob",
+			"cout",
+			"ordered_inds",
+			"or_indiv",
+			";\n",
+			"();",
+			"_WIDTH",
+			"_HEIGHT",
+			"starting_positions_teammates",
+			"}\n",
+			"();\n",
+			"loop_through(",
+			"loop_through",
+			"set_owner",
+			"find",
+			"this->visited_tiles.empty()",
+			"visited_tiles.insert",
+			"asdasd",
+			"this",
+			"\n    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\"<br/>\"",
+			"indiv_",
+			"width",
+			"height",
+			"this->visited_tiles.clear()",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 16874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8508,
+								8508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2593.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hill.cpp",
+					"settings":
+					{
+						"buffer_size": 3638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "snow.cpp",
+					"settings":
+					{
+						"buffer_size": 1523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"snow",
+				"snow.cpp"
+			],
+			[
+				"hill.cpp",
+				"hill.cpp"
+			],
+			[
+				"maps/map",
+				"maps/map-1346523843-10.html"
+			],
+			[
+				"maps/",
+				"maps/map-1346523843-0.html"
+			],
+			[
+				"plain",
+				"plains.cpp"
+			],
+			[
+				"dese",
+				"desert.cpp"
+			],
+			[
+				"oce",
+				"ocean.cpp"
+			],
+			[
+				"hil",
+				"hill.cpp"
+			],
+			[
+				"gras",
+				"grassland.cpp"
+			],
+			[
+				"coas",
+				"coast.cpp"
+			],
+			[
+				"coa",
+				"coast.cpp"
+			],
+			[
+				"resour",
+				"resource.cpp"
+			],
+			[
+				"tundra",
+				"tundra.cpp"
+			],
+			[
+				"feature.h",
+				"feature.h"
+			],
+			[
+				"des",
+				"desert.cpp"
+			],
+			[
+				"ocean",
+				"ocean.cpp"
+			],
+			[
+				"hill",
+				"hill.cpp"
+			],
+			[
+				"tund",
+				"tundra.cpp"
+			],
+			[
+				"mount",
+				"mountain.cpp"
+			],
+			[
+				"tilebl",
+				"tile_block.cpp"
+			],
+			[
+				"de",
+				"desert.cpp"
+			],
+			[
+				"feature",
+				"feature.cpp"
+			],
+			[
+				"map.cpp",
+				"map.cpp"
+			],
+			[
+				"main.cp",
+				"main.cpp"
+			],
+			[
+				"tile",
+				"tile.cpp"
+			],
+			[
+				"out",
+				"output_writer.cpp"
+			],
+			[
+				"indgr",
+				"ind_grade.h"
+			],
+			[
+				"ind",
+				"ind_grade.cpp"
+			],
+			[
+				"genome.h",
+				"genome.h"
+			],
+			[
+				"evo",
+				"evolution.cpp"
+			],
+			[
+				"genom",
+				"genome.cpp"
+			],
+			[
+				"map",
+				"map.h"
+			],
+			[
+				"map.h",
+				"map.h"
+			],
+			[
+				"map.cp",
+				"map.cpp"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"tileb",
+				"tile_block.h"
+			],
+			[
+				"tileblo",
+				"tile_block.cpp"
+			],
+			[
+				"fitne",
+				"fitness.cpp"
+			],
+			[
+				"fitness",
+				"fitness.h"
+			],
+			[
+				"outpu",
+				"output_writer.cpp"
+			],
+			[
+				"gen",
+				"genome.cpp"
+			],
+			[
+				"fitnes",
+				"fitness.cpp"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"yield.cpp",
+				"yield.cpp"
+			],
+			[
+				"yield",
+				"yield.h"
+			],
+			[
+				"yield.cp",
+				"yield.cpp"
+			],
+			[
+				"yield.h",
+				"yield.h"
+			],
+			[
+				"feat",
+				"feature.cpp"
+			],
+			[
+				"todo",
+				"TODO.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/tomas/Dropbox/Thesis/thesis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true
+}

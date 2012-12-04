@@ -1,0 +1,80 @@
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast1.Civ5Map], using seed [1346770333]
+Results after 50 iterations.
+f_0; 0.863333
+f_1; 0.544285
+f_2; 0.673519
+f_3; 0.664806
+f_4; 0.684437
+f_e; 5047
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast2.Civ5Map], using seed [1346770414]
+Results after 50 iterations.
+f_0; 0.943333
+f_1; 0.593362
+f_2; 0.692407
+f_3; 0.720763
+f_4; 0.735481
+f_e; 5411
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast3.Civ5Map], using seed [1346770514]
+Results after 50 iterations.
+f_0; 0.813333
+f_1; 0.583959
+f_2; 0.664444
+f_3; 0.696559
+f_4; 0.705183
+f_e; 4849
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast4.Civ5Map], using seed [1346770762]
+Results after 50 iterations.
+f_0; 0.91
+f_1; 0.554632
+f_2; 0.641481
+f_3; 0.695078
+f_4; 0.69493
+f_e; 5380
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast5.Civ5Map], using seed [1346770849]
+Results after 50 iterations.
+f_0; 0.768333
+f_1; 0.56665
+f_2; 0.633333
+f_3; 0.69761
+f_4; 0.697207
+f_e; 5410
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast6.Civ5Map], using seed [1346771047]
+Results after 50 iterations.
+f_0; 0.898333
+f_1; 0.576932
+f_2; 0.668148
+f_3; 0.688777
+f_4; 0.702326
+f_e; 4971
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast7.Civ5Map], using seed [1346771276]
+Results after 50 iterations.
+f_0; 0.851667
+f_1; 0.556638
+f_2; 0.629074
+f_3; 0.660897
+f_4; 0.679755
+f_e; 5123
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast8.Civ5Map], using seed [1346771556]
+Results after 50 iterations.
+f_0; 0.846667
+f_1; 0.59294
+f_2; 0.64463
+f_3; 0.701413
+f_4; 0.713554
+f_e; 5208
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast9.Civ5Map], using seed [1346771627]
+Results after 50 iterations.
+f_0; 0.913333
+f_1; 0.583485
+f_2; 0.685741
+f_3; 0.696575
+f_4; 0.697824
+f_e; 4527
+Evaluating mapfile [../Civ5 Resources/testmaps/westeast10.Civ5Map], using seed [1346771718]
+Results after 50 iterations.
+f_0; 0.473333
+f_1; 0.557264
+f_2; 0.673519
+f_3; 0.67303
+f_4; 0.687361
+f_e; 5332

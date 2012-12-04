@@ -1,0 +1,80 @@
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal1.Civ5Map], using seed [1346773511]
+Results after 50 iterations.
+f_0; 0.0783333
+f_1; 0.499886
+f_2; 0.512407
+f_3; 0.587514
+f_4; 0.637587
+f_e; 5757
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal2.Civ5Map], using seed [1346773550]
+Results after 50 iterations.
+f_0; 0.03
+f_1; 0.56636
+f_2; 0.52
+f_3; 0.571022
+f_4; 0.641684
+f_e; 5757
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal3.Civ5Map], using seed [1346773580]
+Results after 50 iterations.
+f_0; 0.0983333
+f_1; 0.503218
+f_2; 0.509815
+f_3; 0.584509
+f_4; 0.605532
+f_e; 5589
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal4.Civ5Map], using seed [1346773607]
+Results after 50 iterations.
+f_0; 0.0333333
+f_1; 0.55227
+f_2; 0.528148
+f_3; 0.611463
+f_4; 0.649952
+f_e; 5741
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal5.Civ5Map], using seed [1346773628]
+Results after 50 iterations.
+f_0; 0.0483333
+f_1; 0.510948
+f_2; 0.507963
+f_3; 0.522363
+f_4; 0.594568
+f_e; 5573
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal6.Civ5Map], using seed [1346773641]
+Results after 50 iterations.
+f_0; 0.0166667
+f_1; 0.57503
+f_2; 0.506111
+f_3; 0.592935
+f_4; 0.633319
+f_e; 5738
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal7.Civ5Map], using seed [1346773655]
+Results after 50 iterations.
+f_0; 0.05
+f_1; 0.512872
+f_2; 0.46963
+f_3; 0.600844
+f_4; 0.622689
+f_e; 5718
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal8.Civ5Map], using seed [1346773676]
+Results after 50 iterations.
+f_0; 0.0583333
+f_1; 0.481536
+f_2; 0.510185
+f_3; 0.600276
+f_4; 0.633579
+f_e; 5902
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal9.Civ5Map], using seed [1346773686]
+Results after 50 iterations.
+f_0; 0.05
+f_1; 0.561785
+f_2; 0.476667
+f_3; 0.566759
+f_4; 0.604921
+f_e; 5832
+Evaluating mapfile [../Civ5 Resources/testmaps/fractal10.Civ5Map], using seed [1346773708]
+Results after 50 iterations.
+f_0; 0.035
+f_1; 0.558842
+f_2; 0.477407
+f_3; 0.548952
+f_4; 0.645256
+f_e; 5838

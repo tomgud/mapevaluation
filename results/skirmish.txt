@@ -1,0 +1,80 @@
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish1.Civ5Map], using seed [1346771779]
+Results after 50 iterations.
+f_0; 0.886667
+f_1; 0.564959
+f_2; 0.441111
+f_3; -nan
+f_4; 0.674003
+f_e; 3749
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish2.Civ5Map], using seed [1346772300]
+Results after 50 iterations.
+f_0; 0.928333
+f_1; 0.56626
+f_2; 0.462778
+f_3; -nan
+f_4; 0.722728
+f_e; 7411
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish3.Civ5Map], using seed [1346772391]
+Results after 50 iterations.
+f_0; 1
+f_1; 0.550122
+f_2; 0.393519
+f_3; -nan
+f_4; 0.716027
+f_e; 4934
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish4.Civ5Map], using seed [1346772911]
+Results after 50 iterations.
+f_0; 0.97
+f_1; 0.530664
+f_2; 0.31463
+f_3; -nan
+f_4; 0.718646
+f_e; 4403
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish5.Civ5Map], using seed [1346772993]
+Results after 50 iterations.
+f_0; 0.99
+f_1; 0.572133
+f_2; 0.329815
+f_3; -nan
+f_4; 0.725352
+f_e; 4426
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish6.Civ5Map], using seed [1346773056]
+Results after 50 iterations.
+f_0; 1
+f_1; 0.581357
+f_2; 0.361852
+f_3; -nan
+f_4; 0.730707
+f_e; 4770
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish7.Civ5Map], using seed [1346773121]
+Results after 50 iterations.
+f_0; 0.93
+f_1; 0.529559
+f_2; 0.443889
+f_3; -nan
+f_4; 0.625755
+f_e; 3681
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish8.Civ5Map], using seed [1346773187]
+Results after 50 iterations.
+f_0; 1
+f_1; 0.552074
+f_2; 0.389815
+f_3; -nan
+f_4; 0.676588
+f_e; 3360
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish9.Civ5Map], using seed [1346773240]
+Results after 50 iterations.
+f_0; 1
+f_1; 0.556484
+f_2; 0.427593
+f_3; -nan
+f_4; 0.660826
+f_e; 3500
+Evaluating mapfile [../Civ5 Resources/testmaps/skirmish10.Civ5Map], using seed [1346773305]
+Results after 50 iterations.
+f_0; 1
+f_1; 0.59333
+f_2; 0.352963
+f_3; -nan
+f_4; 0.719395
+f_e; 3716

@@ -1,0 +1,488 @@
+Mutation results using seed [1347110272] size=50, players=4
+Out of 100, 64 improved, and 36 deteriated.
+The sum of the fitness values(5) for the parent is 3.23613
+Mutation results using seed [1347110668] size=50, players=4
+Out of 100, 31 improved, and 69 deteriated.
+The sum of the fitness values(5) for the parent is 4.12186
+Mutation results using seed [1347110977] size=50, players=4
+Out of 100, 13 improved, and 87 deteriated.
+The sum of the fitness values(5) for the parent is 3.94656
+Mutation results using seed [1347111577] size=50, players=4
+Out of 100, 22 improved, and 78 deteriated.
+The sum of the fitness values(5) for the parent is 4.21178
+Mutation results using seed [1347111865] size=50, players=4
+Out of 100, 73 improved, and 27 deteriated.
+The sum of the fitness values(5) for the parent is 3.2933
+Mutation results using seed [1347112486] size=50, players=4
+Out of 100, 66 improved, and 34 deteriated.
+The sum of the fitness values(5) for the parent is 3.59593
+Mutation results using seed [1347113110] size=50, players=4
+Out of 100, 40 improved, and 60 deteriated.
+The sum of the fitness values(5) for the parent is 4.04886
+Mutation results using seed [1347113380] size=50, players=4
+Out of 100, 3 improved, and 97 deteriated.
+The sum of the fitness values(5) for the parent is 13.7313
+Mutation results using seed [1347114169] size=50, players=4
+Out of 100, 69 improved, and 31 deteriated.
+The sum of the fitness values(5) for the parent is 9.58283
+f0; 0.534407
+f1; 0.639954
+f2; 0.722222
+f3; 0.592159
+f4; 1
+Mutation results using seed [1347114404] size=50, players=4
+Out of 100, 24 improved, and 76 deteriated.
+The sum of the fitness values(5) for the parent is 12.3326
+f0; 0.841267
+f1; 0.892399
+f2; 0.777778
+f3; 0.611681
+f4; 1
+Mutation results using seed [1347114816] size=50, players=4
+Out of 100, 45 improved, and 55 deteriated.
+The sum of the fitness values(5) for the parent is 11.5837
+f0; 0.797968
+f1; 0.65974
+f2; 0.75
+f3; 0.852448
+f4; 1
+Mutation results using seed [1347115024] size=50, players=4
+Out of 100, 21 improved, and 79 deteriated.
+The sum of the fitness values(5) for the parent is 12.1128
+f0; 0.877277
+f1; 0.763141
+f2; 0.777778
+f3; 0.670246
+f4; 1
+Mutation results using seed [1347115260] size=50, players=4
+Out of 100, 44 improved, and 56 deteriated.
+The sum of the fitness values(5) for the parent is 10.6761
+f0; 0.59246
+f1; 0.692841
+f2; 0.657407
+f3; 0.985096
+f4; 1
+Mutation results using seed [1347116494] size=50, players=4
+Out of 100, 73 improved, and 27 deteriated.
+The sum of the fitness values(5) for the parent is 10.9277
+f0; 0.667195
+f1; 0.764633
+f2; 0.722222
+f3; 0.68326
+f4; 1
+Mutation results using seed [1347117702] size=50, players=4
+Out of 100, 33 improved, and 67 deteriated.
+The sum of the fitness values(5) for the parent is 11.6723
+f0; 0.692171
+f1; 0.763596
+f2; 0.768519
+f3; 0.925753
+f4; 1
+Mutation results using seed [1347117953] size=50, players=4
+Out of 100, 69 improved, and 31 deteriated.
+The sum of the fitness values(5) for the parent is 10.7493
+f0; 0.745781
+f1; 0.599038
+f2; 0.722222
+f3; 0.728811
+f4; 1
+Mutation results using seed [1347118158] size=50, players=4
+Out of 100, 44 improved, and 56 deteriated.
+The sum of the fitness values(5) for the parent is 10.6578
+f0; 0.659978
+f1; 0.74303
+f2; 0.768519
+f3; 0.540101
+f4; 1
+Mutation results using seed [1347118326] size=50, players=4
+Out of 100, 78 improved, and 22 deteriated.
+The sum of the fitness values(5) for the parent is 10.0711
+f0; 0.611224
+f1; 0.531123
+f2; 0.675926
+f3; 0.931364
+f4; 1
+Mutation results using seed [1347118716] size=50, players=4
+Out of 100, 91 improved, and 9 deteriated.
+The sum of the fitness values(5) for the parent is 8.04213
+f0; 0.490451
+f1; 0.43817
+f2; 0.62037
+f3; 0.488043
+f4; 1
+Mutation results using seed [1347119197] size=50, players=4
+Out of 100, 21 improved, and 79 deteriated.
+The sum of the fitness values(5) for the parent is 12.6375
+f0; 0.907705
+f1; 0.769122
+f2; 0.787037
+f3; 0.830676
+f4; 1
+Mutation results using seed [1347119679] size=50, players=4
+Out of 100, 71 improved, and 29 deteriated.
+The sum of the fitness values(5) for the parent is 10.605
+f0; 0.728889
+f1; 0.641763
+f2; 0.740741
+f3; 0.585652
+f4; 1
+Mutation results using seed [1347119899] size=50, players=4
+Out of 100, 42 improved, and 58 deteriated.
+The sum of the fitness values(5) for the parent is 9.52889
+f0; 0.565013
+f1; 0.592776
+f2; 0.694444
+f3; 0.624695
+f4; 1
+Mutation results using seed [1347120085] size=50, players=4
+Out of 100, 26 improved, and 74 deteriated.
+The sum of the fitness values(5) for the parent is 11.1933
+f0; 0.761702
+f1; 0.67803
+f2; 0.731481
+f3; 0.9891
+f4; 0.5
+Mutation results using seed [1347121338] size=50, players=4
+Out of 50, 21 improved, and 29 deteriated.
+The sum of the fitness values(5) for the parent is 3.90053
+f0; 0.669976
+f1; 0.635362
+f2; 0.703704
+f3; 0.891492
+f4; 1
+Mutation results using seed [1347121429] size=50, players=4
+Out of 50, 19 improved, and 31 deteriated.
+The sum of the fitness values(5) for the parent is 3.88349
+f0; 0.718174
+f1; 0.666985
+f2; 0.75
+f3; 0.748333
+f4; 1
+Mutation results using seed [1347121602] size=50, players=4
+Out of 50, 50 improved, and 0 deteriated.
+The sum of the fitness values(5) for the parent is 2.72307
+f0; 0.56278
+f1; 0.52381
+f2; 0.675926
+f3; 0.793883
+f4; 0.166667
+Mutation results using seed [1347121692] size=50, players=4
+Out of 50, 33 improved, and 17 deteriated.
+The sum of the fitness values(5) for the parent is 3.5021
+f0; 0.680636
+f1; 0.640668
+f2; 0.685185
+f3; 0.995608
+f4; 0.5
+Mutation results using seed [1347121842] size=50, players=4
+Out of 50, 29 improved, and 21 deteriated.
+The sum of the fitness values(5) for the parent is 3.73218
+f0; 0.606198
+f1; 0.668438
+f2; 0.722222
+f3; 0.735318
+f4; 1
+Mutation results using seed [1347121928] size=50, players=4
+Out of 50, 42 improved, and 8 deteriated.
+The sum of the fitness values(5) for the parent is 2.89985
+f0; 0.647345
+f1; 0.555254
+f2; 0.722222
+f3; 0.475029
+f4; 0.5
+Mutation results using seed [1347122316] size=50, players=4
+Out of 50, 41 improved, and 9 deteriated.
+The sum of the fitness values(5) for the parent is 3.17131
+f0; 0.484198
+f1; 0.495849
+f2; 0.592593
+f3; 0.598666
+f4; 1
+Mutation results using seed [1347122401] size=50, players=4
+Out of 50, 28 improved, and 22 deteriated.
+The sum of the fitness values(5) for the parent is 3.12632
+f0; 0.538979
+f1; 0.544256
+f2; 0.685185
+f3; 0.357898
+f4; 1
+Mutation results using seed [1347122486] size=50, players=4
+Out of 50, 30 improved, and 20 deteriated.
+The sum of the fitness values(5) for the parent is 3.80279
+f0; 0.72579
+f1; 0.680034
+f2; 0.759259
+f3; 0.63771
+f4; 1
+Mutation results using seed [1347122585] size=50, players=4
+Out of 50, 20 improved, and 30 deteriated.
+The sum of the fitness values(5) for the parent is 3.65919
+f0; 0.562732
+f1; 0.50852
+f2; 0.657407
+f3; 0.930535
+f4; 1
+Mutation results using seed [1347122680] size=50, players=4
+Out of 50, 26 improved, and 24 deteriated.
+The sum of the fitness values(5) for the parent is 3.73775
+f0; 0.653969
+f1; 0.610476
+f2; 0.731481
+f3; 0.741825
+f4; 1
+Mutation results using seed [1347122846] size=50, players=4
+Out of 50, 32 improved, and 18 deteriated.
+The sum of the fitness values(5) for the parent is 3.39439
+f0; 0.494686
+f1; 0.516235
+f2; 0.648148
+f3; 0.735318
+f4; 1
+Mutation results using seed [1347122932] size=50, players=4
+Out of 50, 3 improved, and 47 deteriated.
+The sum of the fitness values(5) for the parent is 4.27185
+f0; 0.809509
+f1; 0.872909
+f2; 0.75
+f3; 0.839434
+f4; 1
+Mutation results using seed [1347123057] size=50, players=4
+Out of 50, 2 improved, and 48 deteriated.
+The sum of the fitness values(5) for the parent is 4.4421
+f0; 0.867375
+f1; 0.831121
+f2; 0.787037
+f3; 0.956564
+f4; 1
+Mutation results using seed [1347123159] size=50, players=4
+Out of 50, 37 improved, and 13 deteriated.
+The sum of the fitness values(5) for the parent is 3.75859
+f0; 0.633025
+f1; 0.761876
+f2; 0.712963
+f3; 0.650724
+f4; 1
+Mutation results using seed [1347123241] size=50, players=4
+Out of 50, 35 improved, and 15 deteriated.
+The sum of the fitness values(5) for the parent is 3.21628
+f0; 0.55362
+f1; 0.477421
+f2; 0.703704
+f3; 0.481536
+f4; 1
+Mutation results using seed [1347123373] size=50, players=4
+Out of 50, 8 improved, and 42 deteriated.
+The sum of the fitness values(5) for the parent is 4.33181
+f0; 0.824309
+f1; 0.775224
+f2; 0.777778
+f3; 0.954503
+f4; 1
+Mutation results using seed [1347123473] size=50, players=4
+Out of 50, 19 improved, and 31 deteriated.
+The sum of the fitness values(5) for the parent is 3.69065
+f0; 0.60418
+f1; 0.579624
+f2; 0.712963
+f3; 0.793883
+f4; 1
+Mutation results using seed [1347123571] size=50, players=4
+Out of 50, 9 improved, and 41 deteriated.
+The sum of the fitness values(5) for the parent is 4.12854
+f0; 0.767275
+f1; 0.757813
+f2; 0.731481
+f3; 0.87197
+f4; 1
+Mutation results using seed [1347123672] size=50, players=4
+Out of 50, 34 improved, and 16 deteriated.
+The sum of the fitness values(5) for the parent is 3.65231
+f0; 0.789122
+f1; 0.75698
+f2; 0.740741
+f3; 0.865463
+f4; 0.5
+Mutation results using seed [1347123837] size=50, players=4
+Out of 50, 23 improved, and 27 deteriated.
+The sum of the fitness values(5) for the parent is 3.67073
+f0; 0.64824
+f1; 0.542421
+f2; 0.666667
+f3; 0.813405
+f4; 1
+Mutation results using seed [1347123924] size=50, players=4
+Out of 50, 24 improved, and 26 deteriated.
+The sum of the fitness values(5) for the parent is 3.83892
+f0; 0.804748
+f1; 0.760837
+f2; 0.759259
+f3; 0.514072
+f4; 1
+Mutation results using seed [1347124005] size=50, players=4
+Out of 50, 22 improved, and 28 deteriated.
+The sum of the fitness values(5) for the parent is 4.05003
+f0; 0.786166
+f1; 0.687653
+f2; 0.75
+f3; 0.82621
+f4; 1
+Mutation results using seed [1347124105] size=50, players=4
+Out of 50, 34 improved, and 16 deteriated.
+The sum of the fitness values(5) for the parent is 2.90851
+f0; 0.3788
+f1; 0.414527
+f2; 0.555556
+f3; 0.559623
+f4; 1
+Mutation results using seed [1347124235] size=50, players=4
+Out of 50, 1 improved, and 49 deteriated.
+The sum of the fitness values(5) for the parent is 4.41945
+f0; 0.829363
+f1; 0.897543
+f2; 0.768519
+f3; 0.924028
+f4; 1
+Mutation results using seed [1347124320] size=50, players=4
+Out of 50, 4 improved, and 46 deteriated.
+The sum of the fitness values(5) for the parent is 4.41588
+f0; 0.814049
+f1; 0.888072
+f2; 0.759259
+f3; 0.954503
+f4; 1
+Mutation results using seed [1347124411] size=50, players=4
+Out of 50, 22 improved, and 28 deteriated.
+The sum of the fitness values(5) for the parent is 3.9652
+f0; 0.762671
+f1; 0.68568
+f2; 0.768519
+f3; 0.748333
+f4; 1
+Mutation results using seed [1347124573] size=50, players=4
+Out of 50, 28 improved, and 22 deteriated.
+The sum of the fitness values(5) for the parent is 3.65544
+f0; 0.649717
+f1; 0.649548
+f2; 0.731481
+f3; 0.624695
+f4; 1
+Mutation results using seed [1347124651] size=50, players=4
+Out of 50, 26 improved, and 24 deteriated.
+The sum of the fitness values(5) for the parent is 2.95234
+f0; 0.488133
+f1; 0.422614
+f2; 0.592593
+f3; 0.449
+f4; 1
+Mutation results using seed [1347124796] size=50, players=4
+Out of 50, 45 improved, and 5 deteriated.
+The sum of the fitness values(5) for the parent is 2.99141
+f0; 0.405757
+f1; 0.333333
+f2; 0.666667
+f3; 0.585652
+f4; 1
+Mutation results using seed [1347124885] size=50, players=4
+Out of 50, 38 improved, and 12 deteriated.
+The sum of the fitness values(5) for the parent is 3.32271
+f0; 0.561394
+f1; 0.515506
+f2; 0.666667
+f3; 0.579144
+f4; 1
+Mutation results using seed [1347125037] size=50, players=4
+Out of 50, 25 improved, and 25 deteriated.
+The sum of the fitness values(5) for the parent is 3.74404
+f0; 0.722989
+f1; 0.728194
+f2; 0.759259
+f3; 0.533594
+f4; 1
+Mutation results using seed [1347125131] size=50, players=4
+Out of 50, 15 improved, and 35 deteriated.
+The sum of the fitness values(5) for the parent is 3.83402
+f0; 0.592363
+f1; 0.639954
+f2; 0.703704
+f3; 0.897999
+f4; 1
+Mutation results using seed [1347125270] size=50, players=4
+Out of 50, 29 improved, and 21 deteriated.
+The sum of the fitness values(5) for the parent is 3.81967
+f0; 0.657757
+f1; 0.651311
+f2; 0.703704
+f3; 0.806898
+f4; 1
+Mutation results using seed [1347125349] size=50, players=4
+Out of 50, 35 improved, and 15 deteriated.
+The sum of the fitness values(5) for the parent is 3.68192
+f0; 0.607919
+f1; 0.480556
+f2; 0.675926
+f3; 0.917521
+f4; 1
+Mutation results using seed [1347125438] size=50, players=4
+Out of 50, 35 improved, and 15 deteriated.
+The sum of the fitness values(5) for the parent is 3.31183
+f0; 0.502649
+f1; 0.410948
+f2; 0.675926
+f3; 0.722304
+f4; 1
+Mutation results using seed [1347125553] size=50, players=4
+Out of 50, 29 improved, and 21 deteriated.
+The sum of the fitness values(5) for the parent is 3.60171
+f0; 0.744512
+f1; 0.632174
+f2; 0.75
+f3; 0.475029
+f4; 1
+Mutation results using seed [1347125637] size=50, players=4
+Out of 50, 31 improved, and 19 deteriated.
+The sum of the fitness values(5) for the parent is 3.94723
+f0; 0.769761
+f1; 0.687396
+f2; 0.722222
+f3; 0.767854
+f4; 1
+Mutation results using seed [1347125786] size=50, players=4
+Out of 50, 32 improved, and 18 deteriated.
+The sum of the fitness values(5) for the parent is 3.52682
+f0; 0.561385
+f1; 0.556944
+f2; 0.666667
+f3; 0.741825
+f4; 1
+Mutation results using seed [1347125937] size=50, players=4
+Out of 50, 36 improved, and 14 deteriated.
+The sum of the fitness values(5) for the parent is 3.59623
+f0; 0.676642
+f1; 0.650753
+f2; 0.722222
+f3; 0.546608
+f4; 1
+Mutation results using seed [1347126063] size=50, players=4
+Out of 50, 27 improved, and 23 deteriated.
+The sum of the fitness values(5) for the parent is 3.9264
+f0; 0.692959
+f1; 0.63925
+f2; 0.722222
+f3; 0.87197
+f4; 1
+Mutation results using seed [1347126149] size=50, players=4
+Out of 50, 23 improved, and 27 deteriated.
+The sum of the fitness values(5) for the parent is 3.45736
+f0; 0.714382
+f1; 0.671372
+f2; 0.759259
+f3; 0.312348
+f4; 1
+Mutation results using seed [1347126339] size=50, players=4
+Out of 50, 26 improved, and 24 deteriated.
+The sum of the fitness values(5) for the parent is 4.03571
+f0; 0.744639
+f1; 0.696708
+f2; 0.75
+f3; 0.844368
+f4; 1
